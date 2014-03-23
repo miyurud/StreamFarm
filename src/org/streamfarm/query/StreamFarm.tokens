@@ -1,0 +1,109 @@
+#Copyright 2014 Miyuru Dayarathna
+
+#Licensed under the Apache License, Version 2.0 (the "License");
+#you may not use this file except in compliance with the License.
+#You may obtain a copy of the License at
+
+#    http://www.apache.org/licenses/LICENSE-2.0
+
+#Unless required by applicable law or agreed to in writing, software
+#distributed under the License is distributed on an "AS IS" BASIS,
+#WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+#See the License for the specific language governing permissions and
+#limitations under the License.
+
+T__15=15
+T__16=16
+T__17=17
+T__18=18
+T__19=19
+T__20=20
+T__21=21
+T__22=22
+T__23=23
+T__24=24
+T__25=25
+T__26=26
+T__27=27
+T__28=28
+T__29=29
+T__30=30
+T__31=31
+T__32=32
+T__33=33
+T__34=34
+T__35=35
+T__36=36
+T__37=37
+T__38=38
+T__39=39
+T__40=40
+T__41=41
+T__42=42
+T__43=43
+T__44=44
+T__45=45
+T__46=46
+T__47=47
+T__48=48
+T__49=49
+T__50=50
+T__51=51
+T__52=52
+T__53=53
+T__54=54
+T__55=55
+T__56=56
+DECIMAL=4
+DIGIT=5
+DRANGE=6
+FILEPATH=7
+HOSTNAME=8
+MATRIXDEF=9
+NUMBER=10
+PROTOCOLS=11
+URLPATH=12
+VARNAME=13
+X_Y_EXPR=14
+'('=15
+')'=16
+'*'=17
+','=18
+'AS'=19
+'CREATE'=20
+'DATARATE'=21
+'DELETE'=22
+'DRANGE'=23
+'ESINKHOLES'=24
+'ESPRINGS'=25
+'FILTER'=26
+'FILTERS'=27
+'FOR'=28
+'FROM'=29
+'GSINKHOLES'=30
+'GSPRINGS'=31
+'IN'=32
+'KRONECKER'=33
+'LEARN'=34
+'LEARNING'=35
+'LIST'=36
+'MATRIX'=37
+'MAXDRATE'=38
+'NITER'=39
+'NRPT'=40
+'OF'=41
+'ON'=42
+'PERIOD'=43
+'PSINKHOLES'=44
+'PSPRINGS'=45
+'PULSEWAVE'=46
+'REMOVE'=47
+'SAVE'=48
+'SELECT'=49
+'SET'=50
+'SINKHOLES'=51
+'SPRINGS'=52
+'STATUS'=53
+'SUM'=54
+'USING'=55
+'WITH'=56
