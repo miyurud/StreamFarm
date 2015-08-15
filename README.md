@@ -9,13 +9,7 @@ Miyuru Dayarathna and Toyotaro Suzumura. "[A Mechanism for Stream Program Perfor
 
 StreamFarm is a workload generator infrastructure aimed for workload characterization and benchmarking of stream processing systems. It is purely written in Java and can be run in a distributed compute cluster.
 
-##2. What is Provided
-
-
-
-###3.1 Installation
-
-##4. Contact Information
+##2. Contact Information
 
 Please contact [Miyuru Dayarathna](miyurud at yahoo dot co dot uk) for further information. Please let us know about bug reports or any further improvements you wish to have in StreamFarm.
 
